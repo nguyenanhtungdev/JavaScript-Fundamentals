@@ -9,7 +9,7 @@ class Persion{
     }
     IBMHandel() {
         return this.mass / (this.height * this.height);
-      }
+    }
 }
 
 const Mark = new Persion("Mark's",78, 1.69)
